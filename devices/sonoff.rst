@@ -300,7 +300,10 @@ Sonoff Mini
     GPIO4, SW Input,
     GPIO12, Relay and Red LED,
     GPIO13, Blue LED (inverted),
-    GPIO17, Optional sensor
+    GPIO1, UART TX pin (for external sensors)
+    GPIO2, Optional sensor
+    GPIO3, UART RX pin (for external sensors)
+    GPIO16, OTA pin (for external sensors)
 
 
 Shelly 1
